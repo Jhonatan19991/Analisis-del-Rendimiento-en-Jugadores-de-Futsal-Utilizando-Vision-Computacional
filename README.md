@@ -16,7 +16,7 @@ Analizar videos deportivos para:
 
 ## 🔍 ¿Cómo funciona?
 
-1. Se carga un modelo YOLOv8 previamente entrenado (`.pt`) para detectar dos clases:
+1. Se carga un modelo YOLOv11 previamente entrenado (`.pt`) para detectar dos clases:
    - `balon` (id 0)
    - `arco` (id 1)
 
