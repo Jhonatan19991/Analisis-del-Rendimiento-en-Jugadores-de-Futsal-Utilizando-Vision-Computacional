@@ -2,3 +2,6 @@ dataset
 sort
 FineTuning
 venv
+__pycache__
+
+api/
